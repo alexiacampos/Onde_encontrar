@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Onde encontrar?</string>
+    <string name="titulo">Título</string>
+    <string name="genero">Gênero</string>
+    <string name="sinopse">Sinopse</string>
+    <string name="salvar">Salvar</string>
+    <string name="streaming">Streaming</string>
+    <string name="series">Séries</string>
+    <string name="duracao">Duração (em minutos)</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="excluir">Excluir</string>
+    <string name="filme">Filme</string>
+</resources>

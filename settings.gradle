@@ -1,0 +1,2 @@
+rootProject.name = "Onde_encontrar"
+include ':app'

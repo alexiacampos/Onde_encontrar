@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.onde_encontrar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Onde_encontrar">
+        <activity android:name=".ListarStreaming"></activity>
+        <activity android:name=".CadastrarStreaming" />
+        <activity android:name=".ListarSeries" />
+        <activity android:name=".CadastrarFilme" />
+        <activity android:name=".CadastrarSerie" />
+        <activity android:name=".ListarFilme"/>
+        <activity android:name=".Primeira_tela"> //".Primeira_tela"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
